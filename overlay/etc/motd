@@ -1,0 +1,13 @@
+-- StorjAdmin plugin for FreeNAS -- 
+
+- StorjAdmin config file
+    /usr/local/www/storjadmin/data/storjconfig.json
+    
+- Reset StorjAdmin login
+    storj-pwreset
+    
+
+#- Other packages can be updated with
+#    pkg update && pkg upgrade
+    
+------------------------------------------------------
